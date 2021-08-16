@@ -1,4 +1,0 @@
-# Generics
-
-* Introduction
-* Lazy Iteration
