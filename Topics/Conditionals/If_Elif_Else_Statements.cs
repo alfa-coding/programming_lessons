@@ -9,18 +9,21 @@ namespace Conditionals
             int numA = 8;
             int numB = 13;
 
-            if (numA == numB || numA > numB && numB < numA)
+            if (numA > numB)
             {
-                return false;
+                numA = 1;
             }
-            else if (numA == numB || numA < numB && numB > numA)
+            else if (numB < numA)
             {
-                return true;
+                numA = -1;
             }
-            else
+            else if (numA == numB)
             {
-                return false;
+                numA = 0;
             }
+          
+            return false;
+
         }
     }
 }
