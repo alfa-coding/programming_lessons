@@ -8,24 +8,34 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/home/dimas/.nuget/packages/": {}
+    "C:\\Users\\allop\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dimas/Desktop/programming_lessons_CSharp/Recursion/Recursion.csproj",
+      "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\Recursion.csproj",
       "projectName": "Recursion",
-      "projectPath": "/home/dimas/Desktop/programming_lessons_CSharp/Recursion/Recursion.csproj",
-      "packagesPath": "/home/dimas/.nuget/packages/",
-      "outputPath": "/home/dimas/Desktop/programming_lessons_CSharp/Recursion/obj/",
+      "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\Recursion.csproj",
+      "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/home/dimas/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
