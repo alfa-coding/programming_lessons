@@ -5,4 +5,14 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Topics\Basic_DataStructures\Basic_DataStructures.csproj" />
+    <ProjectReference Include="..\..\Topics\Conditionals\Conditionals.csproj" />
+    <ProjectReference Include="..\..\Topics\Generics\Generics.csproj" />
+    <ProjectReference Include="..\..\Topics\Inheritance\Inheritance.csproj" />
+    <ProjectReference Include="..\..\Topics\Loops\Loops.csproj" />
+    <ProjectReference Include="..\..\Topics\Recursion\Recursion.csproj" />
+    <ProjectReference Include="..\..\Topics\Trees\Trees.csproj" />
+  </ItemGroup>
+
 </Project>
