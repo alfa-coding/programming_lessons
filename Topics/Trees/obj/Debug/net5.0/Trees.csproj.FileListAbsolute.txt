@@ -1,0 +1,11 @@
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/bin/Debug/net5.0/Trees.deps.json
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/bin/Debug/net5.0/Trees.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/bin/Debug/net5.0/ref/Trees.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/bin/Debug/net5.0/Trees.pdb
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/obj/Debug/net5.0/Trees.GeneratedMSBuildEditorConfig.editorconfig
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/obj/Debug/net5.0/Trees.AssemblyInfoInputs.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/obj/Debug/net5.0/Trees.AssemblyInfo.cs
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/obj/Debug/net5.0/Trees.csproj.CoreCompileInputs.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/obj/Debug/net5.0/Trees.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/obj/Debug/net5.0/ref/Trees.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/obj/Debug/net5.0/Trees.pdb

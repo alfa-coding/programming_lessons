@@ -1,0 +1,12 @@
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/bin/Debug/net5.0/ref/Inheritance.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/obj/Debug/net5.0/Inheritance.csproj.AssemblyReference.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/obj/Debug/net5.0/Inheritance.pdb

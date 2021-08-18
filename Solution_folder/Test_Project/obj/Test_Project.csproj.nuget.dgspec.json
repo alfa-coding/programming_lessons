@@ -1,59 +1,51 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Solution_folder\\Test_Project\\Test_Project.csproj": {}
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Solution_folder/Test_Project/Test_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Solution_folder\\Test_Project\\Test_Project.csproj": {
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Solution_folder/Test_Project/Test_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Solution_folder\\Test_Project\\Test_Project.csproj",
+        "projectUniqueName": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Solution_folder/Test_Project/Test_Project.csproj",
         "projectName": "Test_Project",
-        "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Solution_folder\\Test_Project\\Test_Project.csproj",
-        "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Solution_folder\\Test_Project\\obj\\",
+        "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Solution_folder/Test_Project/Test_Project.csproj",
+        "packagesPath": "/home/dimas/.nuget/packages/",
+        "outputPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Solution_folder/Test_Project/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/dimas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj": {
-                "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj"
+              "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj": {
+                "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj"
               },
-              "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Conditionals\\Conditionals.csproj": {
-                "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Conditionals\\Conditionals.csproj"
+              "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Conditionals/Conditionals.csproj": {
+                "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Conditionals/Conditionals.csproj"
               },
-              "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Generics\\Generics.csproj": {
-                "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Generics\\Generics.csproj"
+              "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Generics/Generics.csproj": {
+                "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Generics/Generics.csproj"
               },
-              "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Inheritance\\Inheritance.csproj": {
-                "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Inheritance\\Inheritance.csproj"
+              "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/Inheritance.csproj": {
+                "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/Inheritance.csproj"
               },
-              "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Loops\\Loops.csproj": {
-                "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Loops\\Loops.csproj"
+              "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/Loops.csproj": {
+                "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/Loops.csproj"
               },
-              "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\Recursion.csproj": {
-                "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\Recursion.csproj"
+              "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/Recursion.csproj": {
+                "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/Recursion.csproj"
               },
-              "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Trees\\Trees.csproj": {
-                "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Trees\\Trees.csproj"
+              "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/Trees.csproj": {
+                "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/Trees.csproj"
               }
             }
           }
@@ -104,34 +96,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj": {
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj",
+        "projectUniqueName": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj",
         "projectName": "Basic_DataStructures",
-        "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj",
-        "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\obj\\",
+        "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj",
+        "packagesPath": "/home/dimas/.nuget/packages/",
+        "outputPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/dimas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -164,34 +148,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Conditionals\\Conditionals.csproj": {
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Conditionals/Conditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Conditionals\\Conditionals.csproj",
+        "projectUniqueName": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Conditionals/Conditionals.csproj",
         "projectName": "Conditionals",
-        "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Conditionals\\Conditionals.csproj",
-        "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Conditionals\\obj\\",
+        "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Conditionals/Conditionals.csproj",
+        "packagesPath": "/home/dimas/.nuget/packages/",
+        "outputPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Conditionals/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/dimas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -224,34 +200,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Generics\\Generics.csproj": {
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Generics/Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Generics\\Generics.csproj",
+        "projectUniqueName": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Generics/Generics.csproj",
         "projectName": "Generics",
-        "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Generics\\Generics.csproj",
-        "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Generics\\obj\\",
+        "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Generics/Generics.csproj",
+        "packagesPath": "/home/dimas/.nuget/packages/",
+        "outputPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Generics/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/dimas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -284,34 +252,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Inheritance\\Inheritance.csproj": {
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Inheritance\\Inheritance.csproj",
+        "projectUniqueName": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Inheritance\\Inheritance.csproj",
-        "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Inheritance\\obj\\",
+        "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/Inheritance.csproj",
+        "packagesPath": "/home/dimas/.nuget/packages/",
+        "outputPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/dimas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -344,34 +304,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Loops\\Loops.csproj": {
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Loops\\Loops.csproj",
+        "projectUniqueName": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/Loops.csproj",
         "projectName": "Loops",
-        "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Loops\\Loops.csproj",
-        "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Loops\\obj\\",
+        "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/Loops.csproj",
+        "packagesPath": "/home/dimas/.nuget/packages/",
+        "outputPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/dimas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -404,34 +356,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\Recursion.csproj": {
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/Recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\Recursion.csproj",
+        "projectUniqueName": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/Recursion.csproj",
         "projectName": "Recursion",
-        "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\Recursion.csproj",
-        "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\obj\\",
+        "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/Recursion.csproj",
+        "packagesPath": "/home/dimas/.nuget/packages/",
+        "outputPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/dimas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -464,34 +408,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Trees\\Trees.csproj": {
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/Trees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Trees\\Trees.csproj",
+        "projectUniqueName": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/Trees.csproj",
         "projectName": "Trees",
-        "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Trees\\Trees.csproj",
-        "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Trees\\obj\\",
+        "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/Trees.csproj",
+        "packagesPath": "/home/dimas/.nuget/packages/",
+        "outputPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/dimas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -524,7 +460,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

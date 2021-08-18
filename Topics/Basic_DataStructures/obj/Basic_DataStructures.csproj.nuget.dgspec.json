@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj": {}
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj": {
+    "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj",
+        "projectUniqueName": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj",
         "projectName": "Basic_DataStructures",
-        "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj",
-        "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\obj\\",
+        "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj",
+        "packagesPath": "/home/dimas/.nuget/packages/",
+        "outputPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/dimas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

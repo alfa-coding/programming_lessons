@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q3pXOSmQklOd/KFPZTBBfOomGJV2HaXhkMlUIALAeK8KHy/yyQks8ut/W3AsScr9jYAu7JJ2jrIY2DY+jWn/4Q==",
+  "dgSpecHash": "lSqrQoAeUyrHMOeCGcj3sMJvl4DZzeFFxjQ+MIkJ4xlEmHUE+cvIYwNWbeD84lGBl7LrONQxOHnyUYEcCXkOEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Generics\\Generics.csproj",
+  "projectFilePath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Generics/Generics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,12 @@
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/bin/Debug/net5.0/Basic_DataStructures.deps.json
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/bin/Debug/net5.0/Basic_DataStructures.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/bin/Debug/net5.0/ref/Basic_DataStructures.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/bin/Debug/net5.0/Basic_DataStructures.pdb
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/obj/Debug/net5.0/Basic_DataStructures.csproj.AssemblyReference.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/obj/Debug/net5.0/Basic_DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/obj/Debug/net5.0/Basic_DataStructures.AssemblyInfoInputs.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/obj/Debug/net5.0/Basic_DataStructures.AssemblyInfo.cs
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/obj/Debug/net5.0/Basic_DataStructures.csproj.CoreCompileInputs.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/obj/Debug/net5.0/Basic_DataStructures.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/obj/Debug/net5.0/ref/Basic_DataStructures.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/obj/Debug/net5.0/Basic_DataStructures.pdb

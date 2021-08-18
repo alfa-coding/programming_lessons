@@ -123,60 +123,50 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\allop\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/home/dimas/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Solution_folder\\Console.UI\\Console.UI.csproj",
+      "projectUniqueName": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Solution_folder/Console.UI/Console.UI.csproj",
       "projectName": "Console.UI",
-      "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Solution_folder\\Console.UI\\Console.UI.csproj",
-      "packagesPath": "C:\\Users\\allop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Solution_folder\\Console.UI\\obj\\",
+      "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Solution_folder/Console.UI/Console.UI.csproj",
+      "packagesPath": "/home/dimas/.nuget/packages/",
+      "outputPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Solution_folder/Console.UI/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\allop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/dimas/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj": {
-              "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Basic_DataStructures\\Basic_DataStructures.csproj"
+            "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj": {
+              "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Basic_DataStructures/Basic_DataStructures.csproj"
             },
-            "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Conditionals\\Conditionals.csproj": {
-              "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Conditionals\\Conditionals.csproj"
+            "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Conditionals/Conditionals.csproj": {
+              "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Conditionals/Conditionals.csproj"
             },
-            "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Generics\\Generics.csproj": {
-              "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Generics\\Generics.csproj"
+            "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Generics/Generics.csproj": {
+              "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Generics/Generics.csproj"
             },
-            "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Inheritance\\Inheritance.csproj": {
-              "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Inheritance\\Inheritance.csproj"
+            "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/Inheritance.csproj": {
+              "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Inheritance/Inheritance.csproj"
             },
-            "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Loops\\Loops.csproj": {
-              "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Loops\\Loops.csproj"
+            "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/Loops.csproj": {
+              "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/Loops.csproj"
             },
-            "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\Recursion.csproj": {
-              "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Recursion\\Recursion.csproj"
+            "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/Recursion.csproj": {
+              "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/Recursion.csproj"
             },
-            "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Trees\\Trees.csproj": {
-              "projectPath": "C:\\Users\\allop\\Documents\\PROGRAMACION_TODO\\CLASES_DIMAS\\programming_lessons_CSharp\\Topics\\Trees\\Trees.csproj"
+            "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/Trees.csproj": {
+              "projectPath": "/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Trees/Trees.csproj"
             }
           }
         }
@@ -205,7 +195,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

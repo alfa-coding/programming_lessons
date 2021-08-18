@@ -1,0 +1,11 @@
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/bin/Debug/net5.0/Recursion.deps.json
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/bin/Debug/net5.0/Recursion.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/bin/Debug/net5.0/ref/Recursion.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/bin/Debug/net5.0/Recursion.pdb
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/obj/Debug/net5.0/Recursion.GeneratedMSBuildEditorConfig.editorconfig
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/obj/Debug/net5.0/Recursion.AssemblyInfoInputs.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/obj/Debug/net5.0/Recursion.AssemblyInfo.cs
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/obj/Debug/net5.0/Recursion.csproj.CoreCompileInputs.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/obj/Debug/net5.0/Recursion.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/obj/Debug/net5.0/ref/Recursion.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Recursion/obj/Debug/net5.0/Recursion.pdb

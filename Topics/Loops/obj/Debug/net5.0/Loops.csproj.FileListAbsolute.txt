@@ -1,0 +1,11 @@
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/bin/Debug/net5.0/Loops.deps.json
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/bin/Debug/net5.0/Loops.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/bin/Debug/net5.0/ref/Loops.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/bin/Debug/net5.0/Loops.pdb
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/obj/Debug/net5.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/obj/Debug/net5.0/Loops.AssemblyInfoInputs.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/obj/Debug/net5.0/Loops.AssemblyInfo.cs
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/obj/Debug/net5.0/Loops.csproj.CoreCompileInputs.cache
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/obj/Debug/net5.0/Loops.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/obj/Debug/net5.0/ref/Loops.dll
+/home/dimas/Documents/side_projects/new/programming_lessons_CSharp/Topics/Loops/obj/Debug/net5.0/Loops.pdb
