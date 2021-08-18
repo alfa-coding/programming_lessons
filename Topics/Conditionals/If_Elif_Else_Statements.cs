@@ -4,26 +4,28 @@ namespace Conditionals
 {
     public class If_Elif_Else_Statements
     {
-        public static bool ExElifElse1()
+        public static int ExElifElse1()
         {
             int numA = 8;
             int numB = 13;
 
             if (numA > numB)
             {
-                numA = 1;
+                return 1;
             }
-            else if (numB < numA)
+            else
             {
-                numA = -1;
+                if (numA < numB)
+                {
+                    return -1;
+                }
+                return 0;
             }
-            else if (numA == numB)
-            {
-                numA = 0;
-            }
-          
-            return false;
+           
+            
 
         }
+
+
     }
 }
